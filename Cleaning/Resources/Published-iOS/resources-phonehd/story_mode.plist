@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>story_mode/active-arrow-left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 1}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>story_mode/active-arrow-right.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 63}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>story_mode/inactive-arrow-left.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 64}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>story_mode/inactive-arrow-right.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>textureFileName</key>
+		<string>story_mode.png</string>
+	</dict>
+</dict>
+</plist>

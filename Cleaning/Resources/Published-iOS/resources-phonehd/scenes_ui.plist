@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>scenes_ui/bottom-fullwidth.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {852, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {852, 160}}</string>
+			<key>sourceSize</key>
+			<string>{852, 160}</string>
+		</dict>
+		<key>scenes_ui/bottom.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 854}, {640, 159}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 159}}</string>
+			<key>sourceSize</key>
+			<string>{640, 159}</string>
+		</dict>
+		<key>scenes_ui/brush.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{676, 854}, {146, 79}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {146, 79}}</string>
+			<key>sourceSize</key>
+			<string>{146, 79}</string>
+		</dict>
+		<key>scenes_ui/brushes-title.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{643, 854}, {155, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {155, 31}}</string>
+			<key>sourceSize</key>
+			<string>{155, 31}</string>
+		</dict>
+		<key>scenes_ui/container_round.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 772}, {183, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {183, 50}}</string>
+			<key>sourceSize</key>
+			<string>{183, 50}</string>
+		</dict>
+		<key>scenes_ui/during-game-insert-button_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 303}, {289, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {289, 82}}</string>
+			<key>sourceSize</key>
+			<string>{289, 82}</string>
+		</dict>
+		<key>scenes_ui/during-game-insert-button_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{186, 761}, {290, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {290, 82}}</string>
+			<key>sourceSize</key>
+			<string>{290, 82}</string>
+		</dict>
+		<key>scenes_ui/item-holder.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606, 636}, {112, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 136}}</string>
+			<key>sourceSize</key>
+			<string>{112, 136}</string>
+		</dict>
+		<key>scenes_ui/label_money.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 824}, {118, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 28}}</string>
+			<key>sourceSize</key>
+			<string>{118, 28}</string>
+		</dict>
+		<key>scenes_ui/label_score.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{606, 750}, {103, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 30}}</string>
+			<key>sourceSize</key>
+			<string>{103, 30}</string>
+		</dict>
+		<key>scenes_ui/label_time.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 594}, {103, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 36}}</string>
+			<key>sourceSize</key>
+			<string>{103, 36}</string>
+		</dict>
+		<key>scenes_ui/logo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{676, 303}, {298, 172}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {298, 172}}</string>
+			<key>sourceSize</key>
+			<string>{298, 172}</string>
+		</dict>
+		<key>scenes_ui/pause.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{757, 854}, {104, 104}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 104}}</string>
+			<key>sourceSize</key>
+			<string>{104, 104}</string>
+		</dict>
+		<key>scenes_ui/sprayer.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{757, 636}, {85, 134}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 134}}</string>
+			<key>sourceSize</key>
+			<string>{85, 134}</string>
+		</dict>
+		<key>scenes_ui/sprayers-title.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{676, 603}, {170, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 31}}</string>
+			<key>sourceSize</key>
+			<string>{170, 31}</string>
+		</dict>
+		<key>scenes_ui/timesup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 636}, {603, 123}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {603, 123}}</string>
+			<key>sourceSize</key>
+			<string>{603, 123}</string>
+		</dict>
+		<key>scenes_ui/upper-hud-full.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 163}, {852, 138}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {852, 138}}</string>
+			<key>sourceSize</key>
+			<string>{852, 138}</string>
+		</dict>
+		<key>scenes_ui/upper-hud.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{855, 1}, {851, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {851, 160}}</string>
+			<key>sourceSize</key>
+			<string>{851, 160}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>scenes_ui.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>settings_dialog/checkbox.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 391}, {36, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 36}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>settings_dialog/close.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 328}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>settings_dialog/home.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 391}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>settings_dialog/ok.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 328}, {60, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 61}}</string>
+			<key>sourceSize</key>
+			<string>{60, 61}</string>
+		</dict>
+		<key>settings_dialog/prompt.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {620, 325}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {620, 325}}</string>
+			<key>sourceSize</key>
+			<string>{620, 325}</string>
+		</dict>
+		<key>settings_dialog/settingtitle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 454}, {230, 55}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {230, 55}}</string>
+			<key>sourceSize</key>
+			<string>{230, 55}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>settings_dialog.png</string>
+	</dict>
+</dict>
+</plist>

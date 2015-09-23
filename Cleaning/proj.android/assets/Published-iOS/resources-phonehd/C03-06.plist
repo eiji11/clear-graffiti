@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>C03-06/v6-vandal-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 340}, {85, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 46}}</string>
+			<key>sourceSize</key>
+			<string>{85, 46}</string>
+		</dict>
+		<key>C03-06/v6-vandal-12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{377, 301}, {85, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 61}}</string>
+			<key>sourceSize</key>
+			<string>{85, 61}</string>
+		</dict>
+		<key>C03-06/v6-vandal-13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{286, 305}, {89, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 80}}</string>
+			<key>sourceSize</key>
+			<string>{89, 80}</string>
+		</dict>
+		<key>C03-06/v6-vandal-14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{489, 383}, {128, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 77}}</string>
+			<key>sourceSize</key>
+			<string>{128, 77}</string>
+		</dict>
+		<key>C03-06/v6-vandal-15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 392}, {95, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 117}}</string>
+			<key>sourceSize</key>
+			<string>{95, 117}</string>
+		</dict>
+		<key>C03-06/v6-vandal-16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{568, 362}, {95, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 130}}</string>
+			<key>sourceSize</key>
+			<string>{95, 130}</string>
+		</dict>
+		<key>C03-06/v6-vandal-17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 212}, {128, 178}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 178}}</string>
+			<key>sourceSize</key>
+			<string>{128, 178}</string>
+		</dict>
+		<key>C03-06/v6-vandal-18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 340}, {48, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 66}}</string>
+			<key>sourceSize</key>
+			<string>{48, 66}</string>
+		</dict>
+		<key>C03-06/v6-vandal-19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{589, 151}, {105, 135}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 135}}</string>
+			<key>sourceSize</key>
+			<string>{105, 135}</string>
+		</dict>
+		<key>C03-06/v6-vandal-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{755, 392}, {90, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 95}}</string>
+			<key>sourceSize</key>
+			<string>{90, 95}</string>
+		</dict>
+		<key>C03-06/v6-vandal-20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 392}, {115, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 148}}</string>
+			<key>sourceSize</key>
+			<string>{115, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{212, 1}, {103, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 152}}</string>
+			<key>sourceSize</key>
+			<string>{103, 152}</string>
+		</dict>
+		<key>C03-06/v6-vandal-22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 288}, {102, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 97}}</string>
+			<key>sourceSize</key>
+			<string>{102, 97}</string>
+		</dict>
+		<key>C03-06/v6-vandal-23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 392}, {101, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {101, 88}}</string>
+			<key>sourceSize</key>
+			<string>{101, 88}</string>
+		</dict>
+		<key>C03-06/v6-vandal-24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{519, 301}, {59, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {59, 102}}</string>
+			<key>sourceSize</key>
+			<string>{59, 102}</string>
+		</dict>
+		<key>C03-06/v6-vandal-25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{440, 301}, {77, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 80}}</string>
+			<key>sourceSize</key>
+			<string>{77, 80}</string>
+		</dict>
+		<key>C03-06/v6-vandal-26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 151}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 155}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{425, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 388}, {110, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 100}}</string>
+			<key>sourceSize</key>
+			<string>{110, 100}</string>
+		</dict>
+		<key>C03-06/v6-vandal-30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{481, 151}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-06/v6-vandal-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 171}, {167, 132}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {167, 132}}</string>
+			<key>sourceSize</key>
+			<string>{167, 132}</string>
+		</dict>
+		<key>C03-06/v6-vandal-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {209, 53}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 53}}</string>
+			<key>sourceSize</key>
+			<string>{209, 53}</string>
+		</dict>
+		<key>C03-06/v6-vandal-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 1}, {168, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 154}}</string>
+			<key>sourceSize</key>
+			<string>{168, 154}</string>
+		</dict>
+		<key>C03-06/v6-vandal-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{641, 1}, {134, 56}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 56}}</string>
+			<key>sourceSize</key>
+			<string>{134, 56}</string>
+		</dict>
+		<key>C03-06/v6-vandal-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{248, 388}, {137, 115}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {137, 115}}</string>
+			<key>sourceSize</key>
+			<string>{137, 115}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>C03-06.png</string>
+	</dict>
+</dict>
+</plist>

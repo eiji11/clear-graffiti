@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bubbles/0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 163}, {46, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 82}}</string>
+			<key>sourceSize</key>
+			<string>{46, 82}</string>
+		</dict>
+		<key>bubbles/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{49, 163}, {38, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 46}}</string>
+			<key>sourceSize</key>
+			<string>{38, 46}</string>
+		</dict>
+		<key>bubbles/2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{49, 211}, {99, 41}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {99, 41}}</string>
+			<key>sourceSize</key>
+			<string>{99, 41}</string>
+		</dict>
+		<key>bubbles/3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {253, 160}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {253, 160}}</string>
+			<key>sourceSize</key>
+			<string>{253, 160}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>bubbles.png</string>
+	</dict>
+</dict>
+</plist>

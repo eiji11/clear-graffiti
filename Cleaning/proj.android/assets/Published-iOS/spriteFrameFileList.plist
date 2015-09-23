@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+	<key>spriteFrameFiles</key>
+	<array>
+		<string>vandals.plist</string>
+		<string>story_mode.plist</string>
+		<string>C01-08.plist</string>
+		<string>C01-01.plist</string>
+		<string>info_menu.plist</string>
+		<string>C03-04.plist</string>
+		<string>pre-post-game.plist</string>
+		<string>C02-02.plist</string>
+		<string>C02-09.plist</string>
+		<string>other_buttons.plist</string>
+		<string>C01-07.plist</string>
+		<string>C03-03.plist</string>
+		<string>C02-01.plist</string>
+		<string>C02-08.plist</string>
+		<string>C01-06.plist</string>
+		<string>C03-02.plist</string>
+		<string>C03-09.plist</string>
+		<string>C02-07.plist</string>
+		<string>shop_dialog.plist</string>
+		<string>level_select.plist</string>
+		<string>C01-05.plist</string>
+		<string>C03-01.plist</string>
+		<string>C03-08.plist</string>
+		<string>C02-06.plist</string>
+		<string>confirm_dialog.plist</string>
+		<string>C01-04.plist</string>
+		<string>C03-07.plist</string>
+		<string>in-game_dialog.plist</string>
+		<string>C02-05.plist</string>
+		<string>C01-03.plist</string>
+		<string>C03-06.plist</string>
+		<string>settings_dialog.plist</string>
+		<string>leaderboard.plist</string>
+		<string>C02-04.plist</string>
+		<string>C01-02.plist</string>
+		<string>howto.plist</string>
+		<string>C01-09.plist</string>
+		<string>equipments.plist</string>
+		<string>main_menu.plist</string>
+		<string>C03-05.plist</string>
+		<string>C02-03.plist</string>
+		<string>scenes_ui.plist</string>
+		<string>bubbles.plist</string>
+	</array>
+</dict>
+</plist>

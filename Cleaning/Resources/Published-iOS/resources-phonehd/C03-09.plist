@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>C03-09/v1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {276, 214}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {276, 214}}</string>
+			<key>sourceSize</key>
+			<string>{276, 214}</string>
+		</dict>
+		<key>C03-09/v10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{564, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 459}, {85, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 46}}</string>
+			<key>sourceSize</key>
+			<string>{85, 46}</string>
+		</dict>
+		<key>C03-09/v12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 449}, {85, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 61}}</string>
+			<key>sourceSize</key>
+			<string>{85, 61}</string>
+		</dict>
+		<key>C03-09/v13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{402, 428}, {89, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 80}}</string>
+			<key>sourceSize</key>
+			<string>{89, 80}</string>
+		</dict>
+		<key>C03-09/v14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{935, 104}, {128, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 77}}</string>
+			<key>sourceSize</key>
+			<string>{128, 77}</string>
+		</dict>
+		<key>C03-09/v15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{367, 155}, {95, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 117}}</string>
+			<key>sourceSize</key>
+			<string>{95, 117}</string>
+		</dict>
+		<key>C03-09/v16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{838, 1}, {95, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 130}}</string>
+			<key>sourceSize</key>
+			<string>{95, 130}</string>
+		</dict>
+		<key>C03-09/v17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 279}, {128, 178}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 178}}</string>
+			<key>sourceSize</key>
+			<string>{128, 178}</string>
+		</dict>
+		<key>C03-09/v18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 459}, {48, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 66}}</string>
+			<key>sourceSize</key>
+			<string>{48, 66}</string>
+		</dict>
+		<key>C03-09/v19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{705, 151}, {105, 135}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 135}}</string>
+			<key>sourceSize</key>
+			<string>{105, 135}</string>
+		</dict>
+		<key>C03-09/v2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{644, 418}, {90, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 95}}</string>
+			<key>sourceSize</key>
+			<string>{90, 95}</string>
+		</dict>
+		<key>C03-09/v20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{342, 278}, {115, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 148}}</string>
+			<key>sourceSize</key>
+			<string>{115, 148}</string>
+		</dict>
+		<key>C03-09/v21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{351, 1}, {103, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 152}}</string>
+			<key>sourceSize</key>
+			<string>{103, 152}</string>
+		</dict>
+		<key>C03-09/v22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{741, 413}, {102, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 97}}</string>
+			<key>sourceSize</key>
+			<string>{102, 97}</string>
+		</dict>
+		<key>C03-09/v23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{935, 1}, {101, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {101, 88}}</string>
+			<key>sourceSize</key>
+			<string>{101, 88}</string>
+		</dict>
+		<key>C03-09/v24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{298, 449}, {59, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {59, 102}}</string>
+			<key>sourceSize</key>
+			<string>{59, 102}</string>
+		</dict>
+		<key>C03-09/v25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{493, 424}, {77, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 80}}</string>
+			<key>sourceSize</key>
+			<string>{77, 80}</string>
+		</dict>
+		<key>C03-09/v26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{456, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{675, 263}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{567, 268}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 170}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{603, 151}, {110, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {110, 100}}</string>
+			<key>sourceSize</key>
+			<string>{110, 100}</string>
+		</dict>
+		<key>C03-09/v30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{459, 274}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{672, 1}, {106, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 148}}</string>
+			<key>sourceSize</key>
+			<string>{106, 148}</string>
+		</dict>
+		<key>C03-09/v4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{217, 1}, {167, 132}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {167, 132}}</string>
+			<key>sourceSize</key>
+			<string>{167, 132}</string>
+		</dict>
+		<key>C03-09/v5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 279}, {209, 53}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 53}}</string>
+			<key>sourceSize</key>
+			<string>{209, 53}</string>
+		</dict>
+		<key>C03-09/v6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{572, 418}, {70, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 92}}</string>
+			<key>sourceSize</key>
+			<string>{70, 92}</string>
+		</dict>
+		<key>C03-09/v7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{186, 279}, {168, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 154}}</string>
+			<key>sourceSize</key>
+			<string>{168, 154}</string>
+		</dict>
+		<key>C03-09/v8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{780, 1}, {134, 56}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 56}}</string>
+			<key>sourceSize</key>
+			<string>{134, 56}</string>
+		</dict>
+		<key>C03-09/v9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{464, 151}, {137, 115}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {137, 115}}</string>
+			<key>sourceSize</key>
+			<string>{137, 115}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>C03-09.png</string>
+	</dict>
+</dict>
+</plist>
